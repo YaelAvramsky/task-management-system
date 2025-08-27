@@ -5,19 +5,6 @@ It emphasizes **clean architecture, modular design, and advanced OOP principles*
 
 ---
 
-## 📖 Table of Contents
-- [Overview](#📝-overview)
-- [Features](#⚡-features)
-- [Design Patterns](#🏗️-design-patterns-used)
-- [Architecture](#🛠-architecture)
-- [Getting Started](#🚀-getting-started)
-- [Usage](#🎯-usage)
-- [Demo Workflow](#🔄-demo-workflow)
-- [Future Enhancements](#🌟-future-enhancements)
-- [Author](#👩‍💻-author)
-
----
-
 ## 📝 Overview
 The Task Management System allows users to **create, assign, update, and track tasks** efficiently. Key capabilities include:
 
